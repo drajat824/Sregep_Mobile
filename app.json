@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Sregep_Mobile",
+    "slug": "Sregep_Mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Sregep_Mobile"
+}
